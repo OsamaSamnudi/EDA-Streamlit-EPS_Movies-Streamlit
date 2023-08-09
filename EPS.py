@@ -45,7 +45,6 @@ with st.sidebar:
         - Osama SAAD
         - Student Data Scaience & Machine Learning @ Epsilon AI
         - Infor ERP Consaltant @ Ibnsina Pharma
-        - Email : osamasamnudi86@gamil.com
         - LinkedIn: 
             https://www.linkedin.com/in/ossama-ahmed-saad-525785b2
         - Github : 
